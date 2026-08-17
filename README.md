@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/anushka326/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/anushka326/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -47,11 +48,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/anushka326/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/anushka326/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
