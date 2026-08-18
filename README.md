@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anushka326/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/anushka326/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anushka326/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/anushka326/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
