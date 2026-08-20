@@ -7,8 +7,8 @@ public:
         for(int i=0; i<nums.size(); i++)
             ans[(i+k)%nums.size()]=nums[i];
 
-        for(int i=0; i<nums.size(); i++)
-            nums[i]=ans[i];
+        // copy into original one
+        nums=ans;
 
     }
 };
