@@ -3,6 +3,7 @@ class Solution
 public:
     void rotate(vector<int>& nums, int k) 
     {
+        // // brute force
         // vector<int> ans(nums.size());
         // for(int i=0; i<nums.size(); i++)
         //     ans[(i+k)%nums.size()]=nums[i];
