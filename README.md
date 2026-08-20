@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/anushka326/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka326/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anushka326/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -40,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anushka326/Leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anushka326/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
