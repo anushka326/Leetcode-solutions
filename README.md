@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anushka326/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/anushka326/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/anushka326/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anushka326/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -81,4 +82,5 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/anushka326/Leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
