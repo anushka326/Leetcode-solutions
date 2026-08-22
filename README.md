@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anushka326/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/anushka326/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/anushka326/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka326/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0136-single-number) |
@@ -81,6 +82,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/anushka326/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anushka326/Leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
