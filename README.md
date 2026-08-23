@@ -48,12 +48,14 @@
 | [0007-reverse-integer](https://github.com/anushka326/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/anushka326/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/anushka326/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anushka326/Leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/anushka326/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anushka326/Leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
@@ -91,4 +93,5 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anushka326/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/anushka326/Leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
