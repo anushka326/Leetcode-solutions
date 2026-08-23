@@ -45,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/anushka326/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anushka326/Leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
