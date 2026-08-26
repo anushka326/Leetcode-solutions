@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/anushka326/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/anushka326/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/anushka326/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka326/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -62,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anushka326/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/anushka326/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anushka326/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Recursion
