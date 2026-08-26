@@ -8,19 +8,6 @@ public:
             if(nums1[i]==0)
                 nums1[i]=nums2[j];        
         }
-        sort(nums1.begin(), nums1.end());
-
-        for(int i=0; i<nums1.size(); i++)
-        {
-            for(int j=0; j<n-i-1; j++)
-            {
-                if(nums1[j]>=nums1[j+1])
-                {
-                    int k = nums1[j];
-                    nums1[j] = nums1[j+1];
-                    nums1[j+1] =k;
-                }
-            }
-        }        
+        sort(nums1.begin(), nums1.end());      
     }
 };
