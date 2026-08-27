@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka326/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/anushka326/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anushka326/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anushka326/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anushka326/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anushka326/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/anushka326/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anushka326/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/anushka326/Leetcode-solutions/tree/master/0575-distribute-candies) |
@@ -87,6 +90,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anushka326/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/anushka326/Leetcode-solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +103,12 @@
 | ------- |
 | [0050-powx-n](https://github.com/anushka326/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anushka326/Leetcode-solutions/tree/master/0231-power-of-two) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anushka326/Leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anushka326/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
