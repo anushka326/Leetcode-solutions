@@ -55,6 +55,7 @@
 | [0231-power-of-two](https://github.com/anushka326/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anushka326/Leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anushka326/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
