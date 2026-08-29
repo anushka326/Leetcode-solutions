@@ -3,17 +3,26 @@ class Solution
 public:
     bool checkDivisibility(int n) 
     {
-        int original = n;
+        bool target = true;
+        int num = n;
         int sum = 0;
-        int product = 1;
-        while(n > 0)
+        int mul = 1;
+
+        while(num > 0)
         {
-            int digit = n % 10;
+            int digit = num % 10;
+
             sum = sum + digit;
-            product = product * digit;
-            n = n / 10;
+            mul = mul * digit;
+
+            num = num / 10;             
         }
-        int total = sum + product;
-        return original % total == 0;
+
+        if( n % (sum + mul) == 0)
+            return target;
+        else
+            target = false;
+
+        return target;
     }
 };
