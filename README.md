@@ -26,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/anushka326/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka326/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/anushka326/Leetcode-solutions/tree/master/0575-distribute-candies) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anushka326/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anushka326/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/anushka326/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anushka326/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -67,6 +68,7 @@
 | [0189-rotate-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anushka326/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anushka326/Leetcode-solutions/tree/master/0268-missing-number) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anushka326/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anushka326/Leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anushka326/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anushka326/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anushka326/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
