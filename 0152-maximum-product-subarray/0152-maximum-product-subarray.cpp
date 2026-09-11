@@ -21,5 +21,19 @@ public:
         }
 
         return answer;
+
+        //My brute force approach but not acceptable
+        // int maxprod=INT_MIN;
+        // for(int i=0; i<nums.size(); i++)
+        // {
+        //     int prod=1;
+        //     for(int j=i; j<nums.size(); j++)
+        //     {
+        //         prod=prod*nums[j];
+                
+        //         maxprod=max(maxprod, prod);
+        //    }
+        // }
+        // return maxprod;
     }
 };
