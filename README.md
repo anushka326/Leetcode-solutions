@@ -27,6 +27,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/anushka326/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/anushka326/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/anushka326/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0941-valid-mountain-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anushka326/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anushka326/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/anushka326/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
