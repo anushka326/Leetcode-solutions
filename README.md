@@ -26,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/anushka326/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka326/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/anushka326/Leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0643-maximum-average-subarray-i](https://github.com/anushka326/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/anushka326/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/anushka326/Leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anushka326/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/anushka326/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/anushka326/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
